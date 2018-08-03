@@ -15467,6 +15467,34 @@
 		}
 	},
 	{
+		"symbol": "SMP",
+		"address": "0xb0e2b8E2c82b75044088611f59A523c376e93866",
+		"decimals": 8,
+		"name": "Social Media Pay",
+		"ens_address": "",
+		"website": "https://socialmediapay.io",
+		"logo": { "src": "https://www.socialmediapay.io/assets/images/SMP-logo.png", "width": "2049", "height": "2049", "ipfs_hash": "" },
+		"support": {
+			"email": "support@socialmediapay.io",
+			"url": "https://socialmediapay.io"
+		},
+		"social": {
+			"blog": "https://medium.com/@socialmediapay",
+			"chat": "",
+			"facebook": "https://www.facebook.com/SMPayToken",
+			"forum": "",
+			"github": "https://github.com/socialmediapay",
+			"gitter": "",
+			"instagram": "",
+			"linkedin": "",
+			"reddit": "https://www.reddit.com/r/SocialMediaPay_Token",
+			"slack": "",
+			"telegram": "https://t.me/SocialMediaPay",
+			"twitter": "https://twitter.com/socialmedia_pay",
+			"youtube": ""
+		}
+	},
+	{
 		"symbol": "SMT",
 		"address": "0x55f93985431fc9304077687a35a1ba103dc1e081",
 		"decimals": 18,
